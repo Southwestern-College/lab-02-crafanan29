@@ -27,7 +27,7 @@ public class Maximum
         }
         else                                            // This line will run if number2 is greater than number1
         {
-            max =number2;
+            max = number2;
             if (max >= number3)                      // I did not know that I can put if statements inside else statements
             {
                 max = number3;
